@@ -1,0 +1,24 @@
+{
+  "name": "node-crud-with-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahajipatil22/Node-crud-with-array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahajipatil22/Node-crud-with-array/issues"
+  },
+  "homepage": "https://github.com/shahajipatil22/Node-crud-with-array#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
